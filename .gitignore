@@ -1,0 +1,6 @@
+.vscode/*
+.lixo/*
+src/.lixo/*
+__pycache__/*
+
+src/relatorios/__pycache__/*

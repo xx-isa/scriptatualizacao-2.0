@@ -1,0 +1,22 @@
+{
+  "username": "",
+  "password": "",
+  "history_path": "",
+  "remetentes": [""],
+  "file_list": [
+    {
+      "filename": "",
+      "remetente": "",
+      "path": "",
+      "save_as": ""
+    },
+    {
+      "filename": "",
+      "remetente": "",
+      "path": "",
+      "always_save": ,
+      "after_save": "",
+      "encoding": ""
+    }
+  ]
+}
